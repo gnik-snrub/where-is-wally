@@ -2,7 +2,7 @@
   "name": "where-is-wally",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://gnik-snrub.github.io",
+  "homepage": "https://gnik-snrub.github.io/wheres-that-pokemon",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.1",
     "@testing-library/react": "^12.1.2",
